@@ -128,13 +128,6 @@ Insights:
 ### Location Page
 ![Location](Location.png)
 
------
-## 🎥 Dashboard Walkthrough Video
-A walkthrough video demonstrating dashboard interactivity and insights.
-
-File: Uber.mp4  
-Note: GitHub may not autoplay the video. Download to view locally.
-
 ---
 
 ## 🚀 Business Value
