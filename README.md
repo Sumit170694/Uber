@@ -111,25 +111,24 @@ Insights:
 ## 📷 Dashboard Screenshots
 
 ### Home Page
-![Home](images/home.png)
+![Home](home.png)
 
 ### Overview Page
-![Overview](images/Overview.png)
+![Overview](Overview.png)
 
 ### Vehicle Page
-![Vehicle](images/Vehicle.png)
+![Vehicle](Vehicle.png)
 
 ### Revenue Page
-![Revenue](images/Revenue.png)
+![Revenue](Revenue.png)
 
 ### Rider Page
-![Rider](images/Rider.png)
+![Rider](Rider.png)
 
 ### Location Page
-![Location](images/Location.png)
+![Location](Location.png)
 
----
-
+-----
 ## 🎥 Dashboard Walkthrough Video
 A walkthrough video demonstrating dashboard interactivity and insights.
 
